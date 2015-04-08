@@ -6,7 +6,7 @@ THe object of the game is to strategically move all the disks to the third tower
 
 The more disks used the harder and longer the task will take.
 A good starter amount that is recommended is 3.
-The game is very simple. There are three files that go along with this game. The file that you will use to run the whole game is the testhanoigame.py file.
+The game is very simple. There are three files that go along with this game. The file that you will use to run the whole game is the testfile.py file.
 This file will print an introductory statement and ask the user to input the amount of disks he/she wish to play with. (Recommended for first time,3) After user inputs amount of disks they wish to play with, the program will then import turtle graphics and create the three towers and then create the amount of disks the user chose and they will appear on the first tower(far left). The program will then ask the user to chose a tower that they wish to move a disk from. Once the user choses a tower the program then asks the user, what tower they wish to move it to. Once the user selects the destination tower. The program then runs the functions to move the disk and shows the process in the turtle graphics window. THe program then repeats the previous steps until the user as moved all the disks to the third tower in the correct order.
 It should only take you 7 or 8 moves using 3 disks to complete the game. 
 HAVE FUN!
